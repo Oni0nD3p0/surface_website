@@ -1,7 +1,6 @@
 
 ![Logo](https://oniondepo.github.io/surface_website/files/images/oniondepo_logo.gif)
 
-
 # Oni0nD3p0
 
 A revolutionary platform built for the people
@@ -26,7 +25,6 @@ For more information please visit the address below, you must use the tor browse
 
 http://cnuiflerosm2uzh26tcuq5saapyto62nfajyhtqu37mwuzu2kyjbwrid.onion
 
-
 ## Roadmap
 
 - Were Currently in Development
@@ -38,7 +36,6 @@ http://cnuiflerosm2uzh26tcuq5saapyto62nfajyhtqu37mwuzu2kyjbwrid.onion
  This project will be a fork of what's soon to be called OMCMS.
  Open Market Content Management System, that will be free and open source
  While offering a platform thats transparent and open to new possibilities!
-
 
 ## License
 
