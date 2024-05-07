@@ -1,0 +1,65 @@
+/*
+custom colors and shadow classes
+*/
+.shadow-primary {
+  text-shadow: 2px 4px 10px cyan;
+}
+
+.box-shadow {
+  box-shadow: 5px 5px 10px green;
+}
+
+.bg-custom {
+  background: rgb(2,0,36);
+  background: linear-gradient(180deg, rgba(2,0,36,1) 75%, rgba(16,26,173,1) 100%);
+}
+
+.bg-custom-secondary {
+  background: rgb(2,0,36);
+}
+
+/*
+custom navbar classes
+*/
+
+/*
+.navbar-bg-img {
+  background-image: url('/files/images/banners/banner-3.webp');
+}
+*/
+
+.custom-logo {
+  height: 175px;
+}
+
+.navbar a:active {
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background-color: rgb(72, 75, 74);
+  text-decoration: none;
+  font-weight: none;
+}
+
+/*
+custom page banner image size
+*/
+.banner-custom {
+  height: 250px;
+}
+
+/*
+logo image size
+*/
+
+.contact-textarea {
+  border: none;
+  background-color: transparent;
+  resize: none;
+  outline: none;
+}
+
+body {
+  font-family: 'Lora', sans-serif !important;
+}
