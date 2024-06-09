@@ -23,7 +23,7 @@ Follow us on ticktock #oniondepo
 
 For more information please visit the address below, you must use the tor browser.
 
-http://cnuiflerosm2uzh26tcuq5saapyto62nfajyhtqu37mwuzu2kyjbwrid.onion
+http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion
 
 ## Roadmap
 
