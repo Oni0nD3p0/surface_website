@@ -1,5 +1,7 @@
-
 ![Logo](https://oniondepo.github.io/surface_website/files/images/oniondepo_logo.gif)
+
+> [!WARNING]
+> Project's Surface Website is maintained on a best-effort basis, please read more about it [here](http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion).
 
 # Oni0nD3p0
 
