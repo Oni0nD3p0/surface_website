@@ -23,6 +23,8 @@ Follow us on ticktock #oniondepo
 
 ## Visiting the Project
 
+### Projects website is now opensource!
+
 For more information please visit the address below, you must use the tor browser.
 
 http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion
