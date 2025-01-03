@@ -33,7 +33,7 @@ http://nytttvdpjx552n2seus3w6y5dcboouly2zxbknai2wei3xgxql2ukrad.onion
 
 - Were Currently in Development
 
-- Expecting Beta by 2024
+- Expecting Beta by 2025
 
 ### Whats the future of Oni0nD3p0
 
